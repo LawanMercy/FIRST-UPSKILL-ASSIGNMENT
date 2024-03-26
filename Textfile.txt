@@ -6,3 +6,4 @@ The Significance of the Meta Charset utf-8
 
 Character Encoding: The charset attribute in HTML specifies the character encoding, UTF-8, for the web page, representing various languages and symbols. The meta tag provides metadata about the HTML document, not displayed on the page.
 Cross-Platform Compatibility: Without specifying the character encoding, different browsers or operating systems may interpret the characters differently, leading to garbled or incorrect display of text. By using UTF-8, the web page can be displayed correctly across various platforms, browsers, and devices.
+International Support: UTF-8 supports a vast range of characters from different languages, including accented characters, ideographic scripts (e.g., Chinese, Japanese, Korean), and right-to-left scripts (e.g., Arabic, Hebrew). This makes it easier to create web pages that cater to a global audience.
