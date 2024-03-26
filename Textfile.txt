@@ -3,3 +3,5 @@ What is Meta Charset utf-8
 <meta Charset="utf-8"> is an HTML meta tag that specifies the character encoding for the web page. It is used to ensure that the characters and symbols on the web page are displayed correctly across different browsers and devices.
 
 The Significance of the Meta Charset utf-8
+
+Character Encoding: The charset attribute in HTML specifies the character encoding, UTF-8, for the web page, representing various languages and symbols. The meta tag provides metadata about the HTML document, not displayed on the page.
